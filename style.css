@@ -27,7 +27,7 @@ width: var(--width);
 }
 
 .white.active{
-    background-color: #ccc;
+    background-color: wheat;
 }
 
 .black{
