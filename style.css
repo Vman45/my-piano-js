@@ -26,6 +26,10 @@ width: var(--width);
     border: 1px solid #333;
 }
 
+.white.active{
+    background-color: #ccc;
+}
+
 .black{
     --width: 60px;
     background-color: black;
